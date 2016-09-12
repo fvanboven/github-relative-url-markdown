@@ -3,8 +3,8 @@ Demonstration repository to display an error in the relative URL handling in Mar
 
 Link to the test file in the `github` folder breaks if it's in a list:
 
-* [Github-folder link is broken] (./github/test.txt)
-* [Non-github-folder link works] (./test/test.txt)
+*  [broken link 1](./github/test.txt)
+* [broken link 2](./test/test.txt)
 
 
 Referencing the [link](./github/test.txt) in text itself works.
